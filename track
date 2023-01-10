@@ -1,8 +1,16 @@
 i This is tracke test
 
+<<<<<<< HEAD
 this is from first edit
+=======
+this is first edit testing of first 
+>>>>>>> newbrancih
 
 this is second edit
 
 
+<<<<<<< HEAD
 This change is from main branch
+=======
+Changes made in feacture  branch
+>>>>>>> newbranch
